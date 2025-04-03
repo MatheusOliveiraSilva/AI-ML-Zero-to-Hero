@@ -2,7 +2,7 @@
 
 This repository is something that I want to create to share with other people what I did to prepare myself for AI/ML Engineer jobs.
 
-I have created a [Excalidraw](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA) board to organize my ideas, you can check this out.
+I have created a [Excalidraw](https://excalidraw.com/#json=W6WodQ2DmGdPLl1-7cvkF,5t-8VVEppSi46xSPsnNCSw) board to organize my ideas, you can check this out.
 
 The idea is that you have to at least be good at the basics:
 1. Version control
