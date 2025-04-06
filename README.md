@@ -1,26 +1,14 @@
-# AI-ML-Zero-to-Hero
+# Transformers
 
-This repository is something that I want to create to share with other people what I did to prepare myself for AI/ML Engineer jobs.
+Most of content here came from:
+1. https://huggingface.co/learn/llm-course/pt/chapter1/3?fw=pt
 
-I have created a [Excalidraw](https://excalidraw.com/#json=W6WodQ2DmGdPLl1-7cvkF,5t-8VVEppSi46xSPsnNCSw) board to organize my ideas, you can check this out.
+This branch are about transformers, how it works, how we can use then.
 
-The idea is that you have to at least be good at the basics:
-1. Version control
-2. SQL + NoSQL
-3. Python
-4. Pandas/Dask
-5. Data structures
-6. Prob & stats
-7. ML algos
-8. Parallel computing
-9. REST API
-10. Kubernetes + Airflow
-11. Unit/integration tests
+## Testing the Hugging Face Transformers Pipeline
 
-Saw that on: https://x.com/chipro/status/1315283623910805504 (Chip is the goat).
+In this repository, you'll find a [notebook](./pipeline_test.ipynb) that demonstrates how to use the `pipeline` method from the Hugging Face Transformers library. This method is a simple and efficient way to use pre-trained models for various natural language processing tasks, such as text classification, named entity recognition, translation, and more.
 
-# Repository organization
-Each one of the topics above will have a branch, and I'll organize my study resources there. My goal is to study and pratice the basics, intermediate and advanced of each topic.
+The notebook provides practical examples of how to implement and use different pipelines for various applications, allowing you to better understand how to leverage the power of transformers in your own projects.
 
---- 
-I hope you all enjoy, feedbacks can be sent to matheusolivsilv.ai@gmail.com
+
